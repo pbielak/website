@@ -1,8 +1,13 @@
-@misc{bielak2020fildne,
-  title={FILDNE: A Framework for Incremental Learning of Dynamic Networks Embeddings}, 
-  author={Piotr Bielak and Kamil Tagowski and Maciej Falkiewicz and Tomasz Kajdanowicz and Nitesh V. Chawla},
-  year={2020},
-  eprint={1904.03423},
-  archivePrefix={arXiv},
-  primaryClass={stat.ML}
+@article{BIELAK2022107453,
+title = {FILDNE: A Framework for Incremental Learning of Dynamic Networks Embeddings},
+journal = {Knowledge-Based Systems},
+volume = {236},
+pages = {107453},
+year = {2022},
+issn = {0950-7051},
+doi = {https://doi.org/10.1016/j.knosys.2021.107453},
+url = {https://www.sciencedirect.com/science/article/pii/S0950705121007152},
+author = {Piotr Bielak and Kamil Tagowski and Maciej Falkiewicz and Tomasz Kajdanowicz and Nitesh V. Chawla},
+keywords = {Representation learning, Dynamic graph embedding, Incremental network embedding},
+abstract = {Representation learning on graphs has emerged as a powerful mechanism to automate feature vector generation for downstream machine learning tasks. The advances in representation on graphs have centered on both homogeneous and heterogeneous graphs, where the latter presenting the challenges associated with multi-typed nodes and/or edges. In this paper, we consider the additional challenge of evolving graphs. We ask the question of whether the advances in representation learning for static graphs can be leveraged for dynamic graphs and how? It is important to be able to incorporate those advances to maximize the utility and generalization of methods. To that end, we propose the Framework for Incremental Learning of Dynamic Networks Embedding (FILDNE), which can utilize any existing static representation learning method for learning node embeddings while keeping the computational costs low. FILDNE integrates the feature vectors computed using the standard methods over different timesteps into a single representation by developing a convex combination function and alignment mechanism. Experimental results on several downstream tasks, over seven real-world datasets, show that FILDNE is able to reduce memory (up to 6x) and computational time (up to 50x) costs while providing competitive quality measure gains (e.g., improvements up to 19 pp AUC on link prediction and up to 33 pp mAP on graph reconstruction) with respect to the contemporary methods for representation learning on dynamic graphs.}
 }
