@@ -70,7 +70,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a 2nd year PhD student at Wrocław University of Science and Technology. 
+I am a 3rd year PhD student at Wrocław University of Science and Technology. 
 My research is focused on unsupervised representation learning methods for 
 attributed graphs.
 
