@@ -10,7 +10,7 @@ authors:
 - Tomasz Kajdanowicz
 
 date: "2022-04-01T00:00:00Z"
-doi: ""
+doi: "10.1007/978-3-031-08751-6_13"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-04-01T00:00:00Z"
@@ -40,7 +40,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-031-08751-6_13'
 url_code: 'https://github.com/pbielak/gerf/'
 url_dataset: ''
 url_poster: ''
