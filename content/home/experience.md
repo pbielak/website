@@ -22,12 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: ML Ops Developer
+    company: Debster.AI
+    company_url: ''
+    location: Wrocław
+    date_start: '2022-09-01'
+    date_end: ''
+    description: ''
   - title: Senior Machine Learning Developer
     company: Growbots
     company_url: 'https://www.growbots.com/'
     location: Wrocław
     date_start: '2020-09-01'
-    date_end: ''
+    date_end: '2022-12-31'
     description: Working on machine learning based recommendation systems for company interactions
   - title: Research Assistant
     company: Politechnika Wrocławska
