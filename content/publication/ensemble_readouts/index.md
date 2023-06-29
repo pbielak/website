@@ -12,7 +12,7 @@ authors:
 - Tomasz Kajdanowicz
 
 date: "2023-05-01T00:00:00Z"
-doi: ""
+doi: "10.1007/978-3-031-35995-8_28"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-05-01T00:00:00Z"
