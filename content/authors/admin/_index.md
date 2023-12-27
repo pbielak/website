@@ -6,7 +6,7 @@ title: Piotr Bielak
 superuser: true
 
 # Role/position/tagline
-role: PhD student
+role: Graph Machine Learning Researcher & Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -20,6 +20,7 @@ bio: My research interests include graph machine learning and unsupervised learn
 interests:
 - Graph Representation Learning
 - Unsupervised Learning
+- Self-supervised Learning
 - Attributed Graphs
 
 # Education to show in About widget
@@ -27,7 +28,7 @@ education:
   courses:
   - course: PhD in Computer Science (Machine Learning)
     institution: Wrocław University of Science and Technology
-    year: 2019-ongoing
+    year: 2019-2023
   - course: MSc in Computer Science (Data Science specialization)
     institution: Wrocław University of Science and Technology
     year: 2018-2019
@@ -59,19 +60,25 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: media/CV_Bielak_12_2023.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-I am a 4th year PhD student at Wrocław University of Science and Technology. 
-My research is focused on unsupervised representation learning methods for 
-attributed graphs.
+I am a graph machine learning specialist with a recently obtained PhD,
+possessing over 4 years of industrial experience. My research expertise centers
+on graph representation learning in terms of unsupervised and self-supervised
+learning, yielding over 100 citations for my work. As an accomplished author of
+both conference and journal articles, I've introduced several pioneering methods
+in this field, such as GBT, AttrE2vec, and FILDNE. I am a dedicated Python
+enthusiast and a well-rounded practitioner, proficient in full-stack machine
+learning development, including DevOps/MLOps, as well as model implementation
+and evaluation.
 
-<!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Bielak_12_2023.pdf" "newtab" >}}resumé{{< /staticref >}}.
