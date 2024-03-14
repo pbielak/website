@@ -6,10 +6,12 @@ title: Piotr Bielak
 superuser: true
 
 # Role/position/tagline
-role: Graph Machine Learning Researcher & Engineer
+role: AI Frameworks Engineer @ Intel | Assistant Professor @ PWr
 
 # Organizations/Affiliations to show in About widget
 organizations:
+- name: Intel Corporation
+  url: https://intel.com
 - name: Wrocław University of Science and Technology
   url: https://pwr.edu.pl
 
@@ -18,10 +20,10 @@ bio: My research interests include graph machine learning and unsupervised learn
 
 # Interests to show in About widget
 interests:
-- Graph Representation Learning
+- Graph Machine Learning
+- Representation Learning
 - Unsupervised Learning
 - Self-supervised Learning
-- Attributed Graphs
 
 # Education to show in About widget
 education:
