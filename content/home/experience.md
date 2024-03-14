@@ -22,6 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: AI Frameworks Engineer
+    company: Intel Technology Poland
+    company_url: ''
+    location: Wrocław
+    date_start: '2024-03-01'
+    date_end: ''
+    description: |2-
+        I am part of the AI Frameworks team, which works on the optimization and development of the Deep Graph Library (DGL).
+
+        Tech stack: Python, PyTorch, DGL, GNN
+
+  - title: Assistant Professor
+    company: Politechnika Wrocławska
+    company_url: 'https://pwr.edu.pl'
+    location: Wrocław
+    date_start: '2024-03-01'
+    date_end: ''
+    description: |2-
+        Continuing my research on Graph Machine Learning methods at the Department of Artificial Intelligence. My primary focus is on graph representation learning, complemented by expertise in self-supervised and unsupervised learning. Responsible of leading a research group dedicated to graph representation learning. 
+
+        Research areas: graph representation learning, self-supervised learning
+        Teaching: Representation Learning, Script Languages
+
   - title: Visiting scholar
     company: University of Notre Dame
     company_url: ''
@@ -82,7 +105,7 @@ experience:
     company_url: 'https://pwr.edu.pl'
     location: Wrocław
     date_start: '2019-01-01'
-    date_end: ''
+    date_end: '2024-02-29'
     description: |2-
         Recently finished Ph.D. studies at the Department of Artificial Intelligence have been accompanied by research in various areas, with a primary focus on graph representation learning, complemented by expertise in self-supervised and unsupervised learning. Responsible of leading a research group dedicated to graph representation learning. Additional practical experience in didactics, including active involvement in the development of educational materials for the Artificial Intelligence master’s degree program.
 
